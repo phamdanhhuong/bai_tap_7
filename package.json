@@ -1,5 +1,5 @@
 {
-  "name": "bai_tap_7",
+  "name": "@phamdanhhuong/bai_tap_7",
   "version": "1.0.0",
   "description": "A library for managing shopping cart functionality with standardized components.",
   "main": "dist/index.js",
